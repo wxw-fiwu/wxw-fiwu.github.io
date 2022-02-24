@@ -1,7 +1,7 @@
 ## 欢迎使用
 
 我的主页 [fiwu](https://www.fiwu.net) 
-
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_QUGWH4YGl05BDFTRJQ113wbz9VWEwvrdlvq95vc6AE"></script>
 ### 代码示例
 
 一、代码
