@@ -79,7 +79,7 @@ ga_domain: www.fiwu.net
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "吾小汪，前端娱乐圈 NPC，编程语言/编译器初心者 <br> An UI/Frontend dev & designer accidentally growing into a compiler/PL hacker."
-sidebar-avatar: <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_QUGWH4YGl05BDFTRJQ113wbz9VWEwvrdlvq95vc6AE"></script> # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: "<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=_QUGWH4YGl05BDFTRJQ113wbz9VWEwvrdlvq95vc6AE"></script>" # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
