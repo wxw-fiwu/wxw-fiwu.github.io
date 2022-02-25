@@ -77,6 +77,19 @@ a {
     height: 100%;
 }
 
+.zlogo {
+    width: 100%;
+    transition: 1s all;
+    margin: auto;
+    min-width: 320px;
+    height: 700px;
+    position: absolute;
+    left: 0;
+    top: -100px;
+    right: 0;
+    bottom: 0;
+}
+
 .con {
     width: 100%;
     transition: 1s all;
