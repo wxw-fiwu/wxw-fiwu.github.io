@@ -33,27 +33,6 @@ var se_list_preinstall = {
         name: "q",
         img: "./icon/bing.ico",
     },
-    '4': {
-        id: 4,
-        title: "多吉",
-        url: "https://www.dogedoge.com/results",
-        name: "q",
-        img: "./icon/doge_ico.png",
-    },
-    '5': {
-        id: 5,
-        title: "秘迹",
-        url: "https://mijisou.com",
-        name: "q",
-        img: "./icon/mijisou.png",
-    },
-    '6': {
-        id: 6,
-        title: "seeres*",
-        url: "https://seeres.com/search",
-        name: "q",
-        img: "./icon/seeres.png",
-    },
 };
 
 // 主页快捷方式【预设】
@@ -75,18 +54,6 @@ var quick_list_preinstall = {
         url: "https://www.v2ex.com/",
         img: "./icon/v2ex.png",
         explain: "V2EX",
-    },
-    '4': {
-        title: "Steam",
-        url: "https://store.steampowered.com/",
-        img: "./icon/steam.ico",
-        explain: "Steam",
-    },
-    '5': {
-        title: "scp基金会",
-        url: "http://scp-wiki-cn.wikidot.com/",
-        img: "./icon/scp.png",
-        explain: "控制，收容，保护",
     },
 };
 
