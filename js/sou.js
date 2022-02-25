@@ -38,16 +38,16 @@ var se_list_preinstall = {
 // 主页快捷方式【预设】
 var quick_list_preinstall = {
     '1': {
-        title: "哔哩哔哩",
-        url: "https://www.bilibili.com/",
-        img: "./icon/bilibili.png",
-        explain: "哔哩哔哩 (゜-゜)つロ 干杯~",
-    },
-    '2': {
         title: "GitHub",
         url: "https://github.com/",
         img: "./icon/github.ico",
         explain: "GitHub",
+    },
+    '2': {
+        title: "哔哩哔哩",
+        url: "https://www.bilibili.com/",
+        img: "./icon/bilibili.png",
+        explain: "哔哩哔哩 (゜-゜)つロ 干杯~",
     },
     '3': {
         title: "V2EX",
